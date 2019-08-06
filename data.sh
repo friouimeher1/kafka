@@ -15,3 +15,4 @@ bin/kafka-console-producer.sh --broker-list localhost:9092 --topic testTopic
 #Step 6 – Using Kafka Consumer
 #Kafka also has a command line consumer to read data from Kafka cluster and display messages to standard output.
 bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic testTopic --from-beginning
+https://tecadmin.net/install-apache-kafka-ubuntu/
